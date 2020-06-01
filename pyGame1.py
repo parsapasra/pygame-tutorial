@@ -1,4 +1,4 @@
-#nabegheha.com
+#forked by =>> nabegheha.com
 import pygame
 import time
 import random
